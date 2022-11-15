@@ -1,0 +1,8 @@
+“Tell me about yourself.”
+
+I am a senior at Centre College with an expected graduation of May 2023. I am a Computer Science and Economics and Finance double major. 
+
+Over the summer I worked with the React Native framework to develop a mobile application for the non-profit JackBeNimble. I have experience across the stack thanks to my college coursework, but I am particularly proficient in Python, JavaScript/TypeScript, Java, and HTML/CSS. 
+
+I am interested in the Technical Rotation Program at Lexmark because I want to get experience in different areas of the business. I also love the bluegrass region and would be thrilled to start my career in Lexington.
+
