@@ -2,7 +2,4 @@
 
 I am a senior at Centre College with an expected graduation of May 2023. I am a Computer Science and Economics and Finance double major. 
 
-Over the summer I worked with the React Native framework to develop a mobile application for the non-profit JackBeNimble. I have experience across the stack thanks to my college coursework, but I am particularly proficient in Python, JavaScript/TypeScript, Java, and HTML/CSS. 
-
-
-
+Over the summer I worked with the React Native framework to develop a mobile application for the non-profit JackBeNimble. I have experience across the stack thanks to my college coursework, but I am particularly proficient in Python and JavaScript. I am currently working on a project PocketJesus. 
